@@ -26,7 +26,7 @@
 
 ![image](https://github.com/user-attachments/assets/6c223c66-1f4a-4da1-9e96-bb2582e81f1e)
 
-5. После закрытия текстового редактора я запустила bash-скрипта в терминале:
+5. После закрытия текстового редактора я запустила bash-скрипт в терминале:
 
 ![image](https://github.com/user-attachments/assets/b277237e-eae1-4483-adf5-7fe3a0864b15)
 
